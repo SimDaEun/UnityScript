@@ -14,7 +14,6 @@ public class First : MonoBehaviour  //MonoBehaviour가 연결되어있다.
     public int count = 0;          //유니티 엔진에서 수정이 가능하고 보임
     private float value = 2.0f;    //유니티 엔진에서 수정이 불가능하고 보이지 않는다.
 
-
     // Start is called before the first frame update
     // 첫 프레임 시작 시 호출되는 함수
     void Start()
